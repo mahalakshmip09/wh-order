@@ -60,7 +60,7 @@ const products = [
     price:    '₹5',
     unit:     '/ piece',
     desc:     'Bright traditional mango-leaf border. Ideal for Tamil engagement ceremonies.',
-    img:      'https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=600&q=80'
+    img:      'https://images.unsplash.com/photo-1606800052052-a08af7148866?w=600&q=80'
   },
   {
     name:     'Classic Maroon Foil Card',
